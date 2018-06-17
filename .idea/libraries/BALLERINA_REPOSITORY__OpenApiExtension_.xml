@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="BALLERINA_REPOSITORY &lt;OpenApiExtension&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/ci" />
+      <root url="file://$USER_HOME$/Documents/docker-tuuto/ballerina-dist" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/ci" />
+      <root url="file://$USER_HOME$/Documents/docker-tuuto/ballerina-dist" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
